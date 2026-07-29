@@ -45,6 +45,19 @@
     "@react-three/fiber": {
       "react": "$react",
       "react-dom": "$react-dom"
+    },
+    "@react-spring/three": {
+      "react": "$react",
+      "react-dom": "$react-dom"
+    },
+    "@react-spring/animated": {
+      "react": "$react"
+    },
+    "@react-spring/core": {
+      "react": "$react"
+    },
+    "@react-spring/shared": {
+      "react": "$react"
     }
   }
 }
